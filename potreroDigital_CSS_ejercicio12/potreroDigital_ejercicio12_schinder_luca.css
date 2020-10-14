@@ -1,0 +1,13 @@
+a{
+  text-decoration: none;
+  color: black; /* Hago que sea de color negro para simular el color asignado a los links una vez que se los clickea */
+}
+/*
+a:hover {
+  text-decoration: underline;
+}
+
+Esto seria si queremos que el subrayado aparezca si posamos el mouse sobre dicho link */
+
+/* Para que el hover sea valido, primero debemos anular las caracteristicas preestablecidas para un link.
+En este caso, debemos eliminar el subrayado inherente a todo link */

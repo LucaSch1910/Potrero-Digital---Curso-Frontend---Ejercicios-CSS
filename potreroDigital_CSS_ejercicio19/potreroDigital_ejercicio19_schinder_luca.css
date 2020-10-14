@@ -1,0 +1,51 @@
+* {
+font-family:  Verdana;
+display: flex;
+box-sizing: border-box;
+}
+
+.content {
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.header {
+  font-size: 25px;
+  font-weight: 900;
+
+}
+
+.main {
+  color: grey;
+}
+
+.ptext {
+  flex-direction: column;
+  text-align: left;
+  line-height : 25px;
+}
+
+
+#img {
+
+align-items: flex-end;
+margin: 20px;
+
+
+}
+
+.footer {
+
+  font-size: 17px;
+
+}
+
+#p1 {
+
+  font-style: italic;
+  font-size: 18px;
+
+}
+#p2 {
+  font-size: 15px;
+}
